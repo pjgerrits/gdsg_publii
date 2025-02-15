@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pjgerrits.github.io/gdsg_publii/sitemap.xml

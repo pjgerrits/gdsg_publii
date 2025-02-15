@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "gdsglasgow",
+    "description": "",
+    "home_page_url": "https://pjgerrits.github.io/gdsg_publii",
+    "feed_url": "https://pjgerrits.github.io/gdsg_publii/feed.json",
+    "user_comment": "",
+    "icon": "https://pjgerrits.github.io/gdsg_publii/media/website/icon.svg",
+    "author": {
+        "name": "Piet Gerrits"
+    },
+    "items": [
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/this-is-the-2nd-post.html",
+            "url": "https://pjgerrits.github.io/gdsg_publii/this-is-the-2nd-post.html",
+            "title": "this is the 2nd post",
+            "summary": "this is. a second post for test",
+            "content_html": "<p>this is. a second post for test</p>",
+            "author": {
+                "name": "Piet Gerrits"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-15T13:59:48+00:00",
+            "date_modified": "2025-02-15T18:55:44+00:00"
+        },
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/this-is-test-2.html",
+            "url": "https://pjgerrits.github.io/gdsg_publii/this-is-test-2.html",
+            "title": "This is test for a post",
+            "summary": "This is the second test page",
+            "content_html": "<p>This is the second test page</p>",
+            "author": {
+                "name": "Piet Gerrits"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-15T13:59:10+00:00",
+            "date_modified": "2025-02-15T13:59:26+00:00"
+        }
+    ]
+}

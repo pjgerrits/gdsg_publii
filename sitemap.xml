@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://pjgerrits.github.io/gdsg_publii/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://pjgerrits.github.io/gdsg_publii/</loc>
+</url>
+<url>
+<loc>https://pjgerrits.github.io/gdsg_publii/this-is-a-test-page.html</loc>
+<lastmod>2025-02-15T13:55:35+00:00</lastmod>
+</url>
+<url>
+<loc>https://pjgerrits.github.io/gdsg_publii/this-is-test-2.html</loc>
+<lastmod>2025-02-15T13:59:26+00:00</lastmod>
+</url>
+<url>
+<loc>https://pjgerrits.github.io/gdsg_publii/this-is-the-2nd-post.html</loc>
+<lastmod>2025-02-15T18:55:44+00:00</lastmod>
+</url>
+<url>
+<loc>https://pjgerrits.github.io/gdsg_publii/this-is-the-second-test-page.html</loc>
+<lastmod>2025-02-15T13:59:57+00:00</lastmod>
+</url>
+</urlset>

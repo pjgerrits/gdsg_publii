@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>gdsglasgow</title>
+    <link href="https://pjgerrits.github.io/gdsg_publii/feed.xml" rel="self" />
+    <link href="https://pjgerrits.github.io/gdsg_publii" />
+    <updated>2025-02-15T18:55:44+00:00</updated>
+    <author>
+        <name>Piet Gerrits</name>
+    </author>
+    <id>https://pjgerrits.github.io/gdsg_publii</id>
+
+    <entry>
+        <title>this is the 2nd post</title>
+        <author>
+            <name>Piet Gerrits</name>
+        </author>
+        <link href="https://pjgerrits.github.io/gdsg_publii/this-is-the-2nd-post.html"/>
+        <id>https://pjgerrits.github.io/gdsg_publii/this-is-the-2nd-post.html</id>
+
+        <updated>2025-02-15T13:59:48+00:00</updated>
+            <summary>
+                <![CDATA[
+                    this is. a second post for test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is. a second post for test</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This is test for a post</title>
+        <author>
+            <name>Piet Gerrits</name>
+        </author>
+        <link href="https://pjgerrits.github.io/gdsg_publii/this-is-test-2.html"/>
+        <id>https://pjgerrits.github.io/gdsg_publii/this-is-test-2.html</id>
+
+        <updated>2025-02-15T13:59:10+00:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the second test page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the second test page</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
