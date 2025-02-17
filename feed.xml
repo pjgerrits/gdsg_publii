@@ -3,7 +3,7 @@
     <title>gdsglasgow</title>
     <link href="https://pjgerrits.github.io/gdsg_publii/feed.xml" rel="self" />
     <link href="https://pjgerrits.github.io/gdsg_publii" />
-    <updated>2025-02-16T00:10:59+00:00</updated>
+    <updated>2025-02-17T00:10:24+00:00</updated>
     <author>
         <name>Piet Gerrits</name>
     </author>
@@ -46,6 +46,7 @@
         </author>
         <link href="https://pjgerrits.github.io/gdsg_publii/welcome-to-the-home-of-the-geospatial-data-science-group-at-the-university-of-glasgow/"/>
         <id>https://pjgerrits.github.io/gdsg_publii/welcome-to-the-home-of-the-geospatial-data-science-group-at-the-university-of-glasgow/</id>
+            <category term="Post"/>
 
         <updated>2023-10-30T12:05:00+00:00</updated>
             <summary>
