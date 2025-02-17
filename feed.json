@@ -11,32 +11,33 @@
     },
     "items": [
         {
-            "id": "https://pjgerrits.github.io/gdsg_publii/this-is-the-2nd-post.html",
-            "url": "https://pjgerrits.github.io/gdsg_publii/this-is-the-2nd-post.html",
-            "title": "this is the 2nd post",
-            "summary": "this is. a second post for test",
-            "content_html": "<p>this is. a second post for test</p>",
+            "id": "https://pjgerrits.github.io/gdsg_publii/pint-of-science-2024/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/pint-of-science-2024/",
+            "title": "Pint Of Science 2024",
+            "summary": "Join us for a Pint of Science with Dr Ian Turton, Joe Shingleton and Dr Guy Solomon! Click here for more information regarding our speakers Dr Ian Turton (Research Software Engineer, University of Glasgow) Looking at the application of AI to discover the location of Roman&hellip;",
+            "content_html": "<p>Join us for a Pint of Science with Dr Ian Turton, Joe Shingleton and Dr Guy Solomon!</p>\n<p><a href=\"https://pintofscience.co.uk/event/geospatial-insights\" rel=\"external nofollow noopener\" target=\"_blank\">Click here for more information regarding our speakers</a></p>\n<h3><img loading=\"lazy\" src=\"https://gdsglasgow.github.io/assets/img/logos/pintofscience.png\" alt=\"Pint of Science\" data-is-external-image=\"true\"></h3>\n<h3 id=\"information\">Information:</h3>\n<h3>Using AI to find Roman Roads</h3>\n<p><strong>Dr Ian Turton (Research Software Engineer, University of Glasgow)</strong> Looking at the application of AI to discover the location of Roman roads in the Scottish Borders, the talk will start with a brief explanation of LiDAR data and then show how it can be applied to the discovery of previously unknown Roman roads.</p>\n<h4 id=\"geolocation-location-location---how-good-is-ai-at-understanding-spatial-information\">(Geo)location, location, location - how good is AI at understanding spatial information?</h4>\n<p><strong>Joe Shingleton (Research Software Engineer, University of Glasgow)</strong> User-generated, online data is rich with insights into our world. Interpreting the spatial information tying this data to real-world locations is a key challenge. Modern advancements in AI and machine learning might provide a promising solution – but we first need to establish just how well these models really understand spatial information. To answer this, we will explore the ambiguities and complexities of geospatial language, and the limitations of modern AI models.</p>\n<h4 id=\"stubborn-minorities-in-cities\">“Stubborn” Minorities in Cities</h4>\n<p><strong>Dr Guy Solomon (Research Associate, University of Glasgow)</strong> It is often assumed that the “majority rules”, but is this actually the case? In many instances, the way a system works is determined by a small, inflexible group (sometimes called a “stubborn minority”) who—for various reasons—may not (or, perhaps, cannot) adapt. This talk outlines what is meant by this term, considers examples of “stubborn minorities” in cities, and discusses why this matters for everyone.</p>",
             "author": {
-                "name": "Piet Gerrits"
+                "name": "Professor Ana Basiri"
             },
             "tags": [
+                   "Post"
             ],
-            "date_published": "2025-02-15T13:59:48+00:00",
-            "date_modified": "2025-02-15T18:55:44+00:00"
+            "date_published": "2024-05-13T14:23:00+01:00",
+            "date_modified": "2025-02-16T00:10:59+00:00"
         },
         {
-            "id": "https://pjgerrits.github.io/gdsg_publii/this-is-test-2.html",
-            "url": "https://pjgerrits.github.io/gdsg_publii/this-is-test-2.html",
-            "title": "This is test for a post",
-            "summary": "This is the second test page",
-            "content_html": "<p>This is the second test page</p>",
+            "id": "https://pjgerrits.github.io/gdsg_publii/welcome-to-the-home-of-the-geospatial-data-science-group-at-the-university-of-glasgow/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/welcome-to-the-home-of-the-geospatial-data-science-group-at-the-university-of-glasgow/",
+            "title": "Welcome to the home of the Geospatial Data Science Group at the University of Glasgow",
+            "summary": "The Geospatial Data Science Group (GDSG) sits at the intersection between data science and geospatial data. We explore, analyse, model, and infer from geospatial data to design, develop and provide more intelligent and useful location-based services to make smarter, faster, fairer decisions for inclusive societies.",
+            "content_html": "<article class=\"post-content\">\n<div id=\"markdown-content\">\n<p>The Geospatial Data Science Group (GDSG) sits at the intersection between data science and geospatial data. We explore, analyse, model, and infer from geospatial data to design, develop and provide more intelligent and useful location-based services to make smarter, faster, fairer decisions for inclusive societies.</p>\n<p>The GDSG works towards the process of making sense from geospatial data. We use a wide range of geospatial data, including data from state-of-the-art sensors and ‘new forms of data’ such as crowdsourced and social media data, and develop and implement novel models that can handle data challenges such as uncertainty, bias, missingness, or privacy concerns associated with them to have a better understanding of society, cities and citizens.</p>\n</div>\n</article>",
             "author": {
                 "name": "Piet Gerrits"
             },
             "tags": [
             ],
-            "date_published": "2025-02-15T13:59:10+00:00",
-            "date_modified": "2025-02-15T13:59:26+00:00"
+            "date_published": "2023-10-30T12:05:00+00:00",
+            "date_modified": "2025-02-16T00:05:42+00:00"
         }
     ]
 }
