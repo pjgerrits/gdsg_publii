@@ -3,7 +3,7 @@
     <title>gdsglasgow</title>
     <link href="https://pjgerrits.github.io/gdsg_publii/feed.xml" rel="self" />
     <link href="https://pjgerrits.github.io/gdsg_publii" />
-    <updated>2025-02-28T13:40:12+00:00</updated>
+    <updated>2025-02-28T17:16:52+00:00</updated>
     <author>
         <name>Piet Gerrits</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://pjgerrits.github.io/gdsg_publii/pint-of-science-2024/"/>
         <id>https://pjgerrits.github.io/gdsg_publii/pint-of-science-2024/</id>
+        <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/5/cityscape_2.jpg" medium="image" />
             <category term="Post"/>
 
         <updated>2024-05-13T14:23:00+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://pjgerrits.github.io/gdsg_publii/media/posts/5/cityscape_2.jpg" alt="" />
                     Join us for a Pint of Science with Dr Ian Turton, Joe Shingleton and Dr Guy Solomon! Click here for more information regarding our speakers Dr Ian Turton (Research Software Engineer, University of Glasgow) Looking at the application of AI to discover the location of Roman&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/5/cityscape_2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Join us for a Pint of Science with Dr Ian Turton, Joe Shingleton and Dr Guy Solomon!</p>
 <p><a href="https://pintofscience.co.uk/event/geospatial-insights" rel="external nofollow noopener" target="_blank">Click here for more information regarding our speakers</a></p>
 <h3><img loading="lazy" src="https://gdsglasgow.github.io/assets/img/logos/pintofscience.png" alt="Pint of Science" data-is-external-image="true"></h3>

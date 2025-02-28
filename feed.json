@@ -16,6 +16,7 @@
             "title": "Pint Of Science 2024",
             "summary": "Join us for a Pint of Science with Dr Ian Turton, Joe Shingleton and Dr Guy Solomon! Click here for more information regarding our speakers Dr Ian Turton (Research Software Engineer, University of Glasgow) Looking at the application of AI to discover the location of Roman&hellip;",
             "content_html": "<p>Join us for a Pint of Science with Dr Ian Turton, Joe Shingleton and Dr Guy Solomon!</p>\n<p><a href=\"https://pintofscience.co.uk/event/geospatial-insights\" rel=\"external nofollow noopener\" target=\"_blank\">Click here for more information regarding our speakers</a></p>\n<h3><img loading=\"lazy\" src=\"https://gdsglasgow.github.io/assets/img/logos/pintofscience.png\" alt=\"Pint of Science\" data-is-external-image=\"true\"></h3>\n<h3 id=\"information\">Information:</h3>\n<h3>Using AI to find Roman Roads</h3>\n<p><strong>Dr Ian Turton (Research Software Engineer, University of Glasgow)</strong> Looking at the application of AI to discover the location of Roman roads in the Scottish Borders, the talk will start with a brief explanation of LiDAR data and then show how it can be applied to the discovery of previously unknown Roman roads.</p>\n<h4 id=\"geolocation-location-location---how-good-is-ai-at-understanding-spatial-information\">(Geo)location, location, location - how good is AI at understanding spatial information?</h4>\n<p><strong>Joe Shingleton (Research Software Engineer, University of Glasgow)</strong> User-generated, online data is rich with insights into our world. Interpreting the spatial information tying this data to real-world locations is a key challenge. Modern advancements in AI and machine learning might provide a promising solution – but we first need to establish just how well these models really understand spatial information. To answer this, we will explore the ambiguities and complexities of geospatial language, and the limitations of modern AI models.</p>\n<h4 id=\"stubborn-minorities-in-cities\">“Stubborn” Minorities in Cities</h4>\n<p><strong>Dr Guy Solomon (Research Associate, University of Glasgow)</strong> It is often assumed that the “majority rules”, but is this actually the case? In many instances, the way a system works is determined by a small, inflexible group (sometimes called a “stubborn minority”) who—for various reasons—may not (or, perhaps, cannot) adapt. This talk outlines what is meant by this term, considers examples of “stubborn minorities” in cities, and discusses why this matters for everyone.</p>",
+            "image": "https://pjgerrits.github.io/gdsg_publii/media/posts/5/cityscape_2.jpg",
             "author": {
                 "name": "Professor Ana Basiri"
             },
@@ -23,7 +24,7 @@
                    "Post"
             ],
             "date_published": "2024-05-13T14:23:00+01:00",
-            "date_modified": "2025-02-16T00:10:59+00:00"
+            "date_modified": "2025-02-28T17:16:52+00:00"
         },
         {
             "id": "https://pjgerrits.github.io/gdsg_publii/welcome-to-the-home-of-the-geospatial-data-science-group-at-the-university-of-glasgow/",
