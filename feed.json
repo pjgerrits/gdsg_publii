@@ -1,45 +1,164 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "gdsglasgow",
+    "title": "gdsglasgow_publii_v3",
     "description": "",
     "home_page_url": "https://pjgerrits.github.io/gdsg_publii",
     "feed_url": "https://pjgerrits.github.io/gdsg_publii/feed.json",
     "user_comment": "",
-    "icon": "https://pjgerrits.github.io/gdsg_publii/media/website/icon.svg",
+    "icon": "https://pjgerrits.github.io/gdsg_publii/media/website/Untitled3.png",
     "author": {
         "name": "Piet Gerrits"
     },
     "items": [
         {
-            "id": "https://pjgerrits.github.io/gdsg_publii/pint-of-science-2024/",
-            "url": "https://pjgerrits.github.io/gdsg_publii/pint-of-science-2024/",
-            "title": "Pint Of Science 2024",
-            "summary": "Join us for a Pint of Science with Dr Ian Turton, Joe Shingleton and Dr Guy Solomon! Click here for more information regarding our speakers Dr Ian Turton (Research Software Engineer, University of Glasgow) Looking at the application of AI to discover the location of Roman&hellip;",
-            "content_html": "<p>Join us for a Pint of Science with Dr Ian Turton, Joe Shingleton and Dr Guy Solomon!</p>\n<p><a href=\"https://pintofscience.co.uk/event/geospatial-insights\" rel=\"external nofollow noopener\" target=\"_blank\">Click here for more information regarding our speakers</a></p>\n<h3><img loading=\"lazy\" src=\"https://gdsglasgow.github.io/assets/img/logos/pintofscience.png\" alt=\"Pint of Science\" data-is-external-image=\"true\"></h3>\n<h3 id=\"information\">Information:</h3>\n<h3>Using AI to find Roman Roads</h3>\n<p><strong>Dr Ian Turton (Research Software Engineer, University of Glasgow)</strong> Looking at the application of AI to discover the location of Roman roads in the Scottish Borders, the talk will start with a brief explanation of LiDAR data and then show how it can be applied to the discovery of previously unknown Roman roads.</p>\n<h4 id=\"geolocation-location-location---how-good-is-ai-at-understanding-spatial-information\">(Geo)location, location, location - how good is AI at understanding spatial information?</h4>\n<p><strong>Joe Shingleton (Research Software Engineer, University of Glasgow)</strong> User-generated, online data is rich with insights into our world. Interpreting the spatial information tying this data to real-world locations is a key challenge. Modern advancements in AI and machine learning might provide a promising solution – but we first need to establish just how well these models really understand spatial information. To answer this, we will explore the ambiguities and complexities of geospatial language, and the limitations of modern AI models.</p>\n<h4 id=\"stubborn-minorities-in-cities\">“Stubborn” Minorities in Cities</h4>\n<p><strong>Dr Guy Solomon (Research Associate, University of Glasgow)</strong> It is often assumed that the “majority rules”, but is this actually the case? In many instances, the way a system works is determined by a small, inflexible group (sometimes called a “stubborn minority”) who—for various reasons—may not (or, perhaps, cannot) adapt. This talk outlines what is meant by this term, considers examples of “stubborn minorities” in cities, and discusses why this matters for everyone.</p>",
-            "image": "https://pjgerrits.github.io/gdsg_publii/media/posts/5/cityscape_2.jpg",
-            "author": {
-                "name": "Professor Ana Basiri"
-            },
-            "tags": [
-                   "Post"
-            ],
-            "date_published": "2024-05-13T14:23:00+01:00",
-            "date_modified": "2025-02-28T17:16:52+00:00"
-        },
-        {
-            "id": "https://pjgerrits.github.io/gdsg_publii/welcome-to-the-home-of-the-geospatial-data-science-group-at-the-university-of-glasgow/",
-            "url": "https://pjgerrits.github.io/gdsg_publii/welcome-to-the-home-of-the-geospatial-data-science-group-at-the-university-of-glasgow/",
-            "title": "Welcome to the home of the Geospatial Data Science Group at the University of Glasgow",
-            "summary": "The Geospatial Data Science Group (GDSG) sits at the intersection between data science and geospatial data. We explore, analyse, model, and infer from geospatial data to design, develop and provide more intelligent and useful location-based services to make smarter, faster, fairer decisions for inclusive societies.",
-            "content_html": "<article class=\"post-content\">\n<div id=\"markdown-content\">\n<p>The Geospatial Data Science Group (GDSG) sits at the intersection between data science and geospatial data. We explore, analyse, model, and infer from geospatial data to design, develop and provide more intelligent and useful location-based services to make smarter, faster, fairer decisions for inclusive societies.</p>\n<p>The GDSG works towards the process of making sense from geospatial data. We use a wide range of geospatial data, including data from state-of-the-art sensors and ‘new forms of data’ such as crowdsourced and social media data, and develop and implement novel models that can handle data challenges such as uncertainty, bias, missingness, or privacy concerns associated with them to have a better understanding of society, cities and citizens.</p>\n</div>\n</article>",
+            "id": "https://pjgerrits.github.io/gdsg_publii/this-is-a-markdown-post/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/this-is-a-markdown-post/",
+            "title": "This is a markdown post",
+            "summary": "heading1 heading2 heading3 bold text Syntax Description Header Title Paragraph Text",
+            "content_html": "<h1 id=\"heading1\">heading1</h1>\n<h2 id=\"heading2\">heading2</h2>\n<h3 id=\"heading3\">heading3</h3>\n<p><strong>bold text</strong></p><table>\n<thead>\n<tr>\n<th>Syntax</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Header</td>\n<td>Title</td>\n</tr>\n<tr>\n<td>Paragraph</td>\n<td>Text</td>\n</tr>\n</tbody></table>\n",
             "author": {
                 "name": "Piet Gerrits"
             },
             "tags": [
-                   "Post"
             ],
-            "date_published": "2023-10-30T12:05:00+00:00",
-            "date_modified": "2025-02-28T13:40:12+00:00"
+            "date_published": "2025-06-05T11:48:20+01:00",
+            "date_modified": "2025-06-05T14:50:05+01:00"
+        },
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/agile-2025/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/agile-2025/",
+            "title": "AGILE 2025",
+            "summary": "This is a setup post for AGILE 2025 ",
+            "content_html": "<p>This is a setup post for AGILE 2025 </p>",
+            "image": "https://pjgerrits.github.io/gdsg_publii/media/posts/39/agile_logo.svg",
+            "author": {
+                "name": "Piet Gerrits"
+            },
+            "tags": [
+                   "Conferences"
+            ],
+            "date_published": "2025-06-05T11:35:53+01:00",
+            "date_modified": "2025-06-05T11:35:53+01:00"
+        },
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/missing-data-mechanisms/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/missing-data-mechanisms/",
+            "title": "Missing data mechanisms",
+            "summary": "Missing data is a universal problem with data sets but there are still many aspects that are not fully explored&hellip;",
+            "content_html": "<header class=\"post-header\">\n<p class=\"post-description\">Missing data is a universal problem with data sets but there are still many aspects that are not fully explored</p>\n</header>\n<article>\n<p>The purpose of the project is to develop a method to identify missing data mechanism both from the pattern of missingness in the data and the use of location information, where available.</p>\n<p>Missing data affects virtually all data sets but, despite extensive study, there remains gaps in its full understanding, particularly in the case of Missing Not at Random data. This affects the ability to use the data as well as understanding the uncertainty associate with research results.</p>\n<p>The approach being used is to start by identifying the specific missing data mechanism involved through the use of a novel analytical method, supplemented by the use of spatial information, where available. This will increase the likelihood of selecting an appropriate method for imputing missing data and of obtaining better results from the analysis of data in the presence of missing data. These results will be not only be more accurate but also better describe their level of uncertainty.</p>\n<p>The ability to correctly identify the missing data mechanism and select the appropriate method to deal with this missingness is of great value to any users of data. These range across virtually all use cases, including environmental, medical, business, official and technological (i.e., AI) uses of data. Not only should it allow greater analytic and predictive accuracy but also a better appreciation of the uncertainties associated with the data and its products.</p>\n</article>",
+            "author": {
+                "name": "Piet Gerrits"
+            },
+            "tags": [
+                   "Current Projects"
+            ],
+            "date_published": "2025-06-05T00:09:23+01:00",
+            "date_modified": "2025-06-05T00:59:45+01:00"
+        },
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/multi-modal-multi-lingual-location-extraction/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/multi-modal-multi-lingual-location-extraction/",
+            "title": "Multi Modal, Multi Lingual Location Extraction",
+            "summary": "Reliable and accurate geolocation of text and image data The Multi-Lingual and Multi-Modal Location Information Extraction project aims to use&hellip;",
+            "content_html": "<header class=\"post-header\">\n<h6 class=\"post-description\">Reliable and accurate geolocation of text and image data</h6>\n</header>\n<article>\n<p>The Multi-Lingual and Multi-Modal Location Information Extraction project aims to use both image and textual data to validate sources of online news and social media posts. Cross validation of locational information extracted from textual data and associated images may help to identify inconsistencies between reported accounts, potentially highlighting sources of online misinformation. In this regard, reliable and accurate geolocation of text and image data will play a crucial role in combatting misinformation, and in aiding counter terrorism efforts.</p>\n<p>This project consists of two components – a multi-lingual text-based geoparser and an image-based geotagger. The text-based geoparser aims to use modern natural language processing techniques to identify place names within text and classify those places in terms of their semantic meaning within a sentence. By doing this, we can identify the geographical subject of a news article or social media post, and use the other mentioned place names to help disambiguate potential matches for the identified subject.</p>\n<p>The image based geotagger uses points of interest and spatial features to associate an image with a pair of geographic coordinates. The model uses features such as text and signage, foliage types, and building styles to geolocate images to within a broad region. A more fine-scale geographic prediction can then be made by using spatial features which are identifiable and projectable onto a map, such as building orientations and road layouts.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"690\" height=\"387\" style=\"width: 690px; height: 387px;\" src=\"https://www.youtube.com/embed/QB1iz4Syk_k\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<div class=\"container mt-5\">\n<div class=\"post\">\n<article>\n<div class=\"caption\">Ana Basiri and Joseph Shingleton discuss their work on defence and security.</div>\n</article>\n</div>\n</div>\n<footer class=\"fixed-bottom\"></footer></figure>\n</article>",
+            "author": {
+                "name": "Piet Gerrits"
+            },
+            "tags": [
+                   "Current Projects"
+            ],
+            "date_published": "2025-06-05T00:08:36+01:00",
+            "date_modified": "2025-06-05T01:00:53+01:00"
+        },
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/bridging-bits-and-bricks/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/bridging-bits-and-bricks/",
+            "title": "Bridging Bits and Bricks",
+            "summary": "Harnessing Cellular Signals for Smarter Cities Accurate building height data is essential for diverse applications, from urban air pollution management&hellip;",
+            "content_html": "<header class=\"post-header\">\n<h6 class=\"post-description\">Harnessing Cellular Signals for Smarter Cities</h6>\n</header>\n<article>\n<p>Accurate building height data is essential for diverse applications, from urban air pollution management to autonomous drone delivery and self-driving vehicle navigation. Yet, the data from existing sources such as OpenStreetMap is often incomplete, posing a significant challenge. My research addresses this critical issue by deploying a novel method: using ubiquitous cellular signals as a tool for estimating building heights. The received signal strength (RSS) picked up by ground users from cellular antennas helps to map out a “shadow” area in the vicinity of specific buildings, which implicitly provides essential information that can be used to accurately determine the heights of those buildings. This approach stands out for its efficiency and potential scalability. It could evolve into a crowd-sourced platform, offering a more cost-effective alternative for obtaining accurate urban topographical data. This research not only provides a solution to a persistent data gap but also has wider implications for urban planning, environmental monitoring, and the next wave of autonomous technologies.</p>\n</article>",
+            "author": {
+                "name": "Piet Gerrits"
+            },
+            "tags": [
+                   "Current Projects"
+            ],
+            "date_published": "2025-06-05T00:08:22+01:00",
+            "date_modified": "2025-06-05T00:59:21+01:00"
+        },
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/new-job-opportunities-at-the-gdsg-university-of-glasgow/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/new-job-opportunities-at-the-gdsg-university-of-glasgow/",
+            "title": "New Job Opportunities at the GDSG, University of Glasgow",
+            "summary": "We are pleased to announce several new job openings at the University of Glasgow, within the College of Science &amp;&hellip;",
+            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://gdsglasgow.github.io/assets/img/logos/job_opp.png\" alt=\"opportunities\" width=\"836\" height=\"593\" data-is-external-image=\"true\"></figure>\n<p>We are pleased to announce several new job openings at the University of Glasgow, within the College of Science &amp; Engineering, School of Geographical &amp; Earth Sciences. Available positions include:</p>\n<ul>\n<li><strong>Administrative Assistant</strong></li>\n<li><strong>Geospatial AI Research Scientist</strong></li>\n<li><strong>Research Software Engineer (Geo-AI)</strong></li>\n<li><strong>Research Associate/Fellow in Urban Analytics</strong></li>\n<li><strong>Research Associate/Fellow in Statistics of Missing Data</strong></li>\n<li><strong>Research Associate/Fellow in Agent Based Modelling</strong></li>\n</ul>\n<p>All positions are based in Glasgow, with competitive salaries and benefits.</p>\n<p><strong>Application deadline: 01 October</strong></p>\n<p>For more details and to apply for the research positions, please visit: <a href=\"https://www.jobs.ac.uk/search/?keywords=Basiri&amp;location=\" rel=\"external nofollow noopener\" target=\"_blank\">jobs.ac.uk</a></p>\n<p>For more details and to apply for the Administrative Assistant position, please visit: <a href=\"https://findajob.dwp.gov.uk/details/15173014\" rel=\"external nofollow noopener\" target=\"_blank\">jobs.ac.uk</a></p>\n<p>Also more information on our Opportunities page: <a href=\"https://gdsglasgow.github.io/opportunities/\" rel=\"external nofollow noopener\" target=\"_blank\">Opportunities</a></p>",
+            "author": {
+                "name": "Piet Gerrits"
+            },
+            "tags": [
+                   "Opportunities"
+            ],
+            "date_published": "2025-06-04T12:49:41+01:00",
+            "date_modified": "2025-06-04T12:49:51+01:00"
+        },
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/defence-and-security/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/defence-and-security/",
+            "title": "Defence and Security",
+            "summary": "Ana Basiri and Joseph Shingleton discuss their work on defence and security.",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"701\" height=\"393\" style=\"width: 701px; height: 393px;\" src=\"https://www.youtube.com/embed/QB1iz4Syk_k\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<article class=\"post-content\">\n<div id=\"markdown-content\">\n<div class=\"caption\">Ana Basiri and Joseph Shingleton discuss their work on defence and security.</div>\n</div>\n</article>\n</figure>",
+            "author": {
+                "name": "Piet Gerrits"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2025-06-04T12:48:55+01:00",
+            "date_modified": "2025-06-04T12:49:59+01:00"
+        },
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/petrus-gerrits-talks-about-historical-population-modelling-in-turkey-and-bulgaria/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/petrus-gerrits-talks-about-historical-population-modelling-in-turkey-and-bulgaria/",
+            "title": "Petrus Gerrits talks about historical population modelling in Turkey and Bulgaria",
+            "summary": "Petrus Gerrits on historical population modelling.",
+            "content_html": "<article class=\"post-content\">\n<div id=\"markdown-content\">\n<div> </div>\n<div>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"701\" height=\"393\" style=\"width: 701px; height: 393px;\" src=\"https://www.youtube.com/embed/iOuUdmfqXps\" allowfullscreen=\"allowfullscreen\"></iframe>Petrus Gerrits on historical population modelling.</figure>\n</div>\n<div class=\"caption\"> </div>\n</div>\n</article>",
+            "author": {
+                "name": "Piet Gerrits"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2025-06-04T12:48:25+01:00",
+            "date_modified": "2025-06-04T12:48:25+01:00"
+        },
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/dominick-sutton-on-missing-data-mechanisms/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/dominick-sutton-on-missing-data-mechanisms/",
+            "title": "Dominick Sutton on missing data mechanisms",
+            "summary": "Dominick Sutton talks about how missing data happens. Dominick Sutton is a PhD candidate in the Geospatial Data Science unit.",
+            "content_html": "<article class=\"post-content\">\n<div id=\"markdown-content\">\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"697\" height=\"391\" style=\"width: 697px; height: 391px;\" src=\"https://www.youtube.com/embed/hQiqRb3zSyg\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>Dominick Sutton talks about how missing data happens.</figure>\n<p>Dominick Sutton is a PhD candidate in the Geospatial Data Science unit. He is researching missing data and how spatial information can be used to improve the accuracy of techniques used to replace the missing values. Missing data is a serious issue for all users of data, including those working in biomedical research, climate change, business, financial and economic analytics. It is a particular problem for users of big data and seriously limits the applicability of their models, not least because it can introduce new forms of data bias that may be especially hard to detect and address.</p>\n<p>If missing data is present in a dataset it can results in less accurate analysis results and assessment of uncertainty, even if measures are taken to allow for these omissions. This can seriously affect the value of subsequent data uses and limits the value of big data despite its apparent large scale. Prior to undertaking his PhD Dominick was Chief Data Officer of a multinational corporation and before that Chief Economist of a small investment bank. He has Masters’ degrees in Economics, Business Administration and Data Analytics and is a Fellow and Graduate Statistician of the Royal Statistical Society.</p>\n</div>\n</article>",
+            "author": {
+                "name": "Piet Gerrits"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2025-06-04T12:47:41+01:00",
+            "date_modified": "2025-06-04T12:47:41+01:00"
+        },
+        {
+            "id": "https://pjgerrits.github.io/gdsg_publii/safer-end-of-engineered-life/",
+            "url": "https://pjgerrits.github.io/gdsg_publii/safer-end-of-engineered-life/",
+            "title": "Safer End of Engineered Life",
+            "summary": "Ana Basiri and Matt Johnston talk about their work in relation to digital inheritance and the climate impact of data.",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"712\" height=\"399\" style=\"width: 712px; height: 399px;\" src=\"https://www.youtube.com/embed/nCkBwFPPi_c\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p> </p>\n<article class=\"post-content\">\n<div id=\"markdown-content\">\n<div class=\"caption\">Ana Basiri and Matt Johnston talk about their work in relation to digital inheritance and the climate impact of data.</div>\n</div>\n</article>",
+            "author": {
+                "name": "Professor Ana Basiri"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2025-06-04T12:45:55+01:00",
+            "date_modified": "2025-06-04T12:45:55+01:00"
         }
     ]
 }
