@@ -3,7 +3,7 @@
     <title>gdsglasgow_publii_v3</title>
     <link href="https://pjgerrits.github.io/gdsg_publii/feed.xml" rel="self" />
     <link href="https://pjgerrits.github.io/gdsg_publii" />
-    <updated>2025-07-17T10:48:25+01:00</updated>
+    <updated>2025-07-17T16:04:01+01:00</updated>
     <author>
         <name>Piet Gerrits</name>
     </author>
@@ -23,12 +23,37 @@
         <updated>2025-07-17T10:45:41+01:00</updated>
             <summary>
                 <![CDATA[
-                    Geospatial Data Science Group Quarterly Newsletter School of Geographical &amp; Earth Sciences | University of Glasgow Q2 2025 👋 Welcome&hellip;
+                    Geospatial Data Science Group Quarterly Newsletter - June 2025 School of Geographical &amp; Earth Sciences | University of Glasgow Q2&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Geospatial Data Science Group Quarterly Newsletter<br>School of Geographical &amp; Earth Sciences | University of Glasgow<br>Q2 2025<br><br>👋 Welcome Note<br>Dear colleagues, collaborators, and friends,<br><br>As we wrapped up another exciting quarter, we looked back at an incredibly productive and impactful few months for the Geospatial Data Science Group (GDSG). From major conference appearances and award-winning papers to impactful public talks and new research outputs, our interdisciplinary team continues to advance the boundaries of geospatial data science.<br><br>Thank you for being part of our growing community!<br><br>— The GDSG Communications Team<br><br>🛰️ Research Highlights<br><br>•    Best Paper Award at LBS 2025 🏆<br>Anahid Basiri and Joe Shingleton were awarded Best Paper at LBS 2025 for:<br>“Geospatial Data Quality in the Era of Generative AI: Can We Trust the Geographic Information Produced by Large Language Models?”<br>Their work addressed the pressing challenge of assessing trust in AI-generated geospatial information.<br><br>•    Finalists at AGILE 2025<br>Anahid Basiri and Joe Shingleton were finalists for Best Paper at AGILE 2025 with:<br>“How close is ‘close’? An analysis of the spatial characteristics of perceived proximity using Large Language Models”<br>The paper was presented during the Best Paper Session on Friday, 13 June.<br><br>New Publication in Mathematics: “Exploring a Diagnostic Test for Missingness at Random”<br>Dominick Sutton, Anahid Basiri &amp; Ziqi Li<br>This open-access study investigated the potential for a new diagnostic test to identify when data is missing at random. Although the test fell short of practical use, the paper introduced a thought-provoking extension to standard missing data classifications.<br>👉 Read the paper<br><br>🌍 Impact &amp; Engagement<br><br>Ongoing UX Research on Missing Data Visualisation<br>Merve Polat Kayali launched a survey building on Anthony Robinson’s work, investigating how users interpret and interact with missing data on maps.<br>🗺️ Take the survey: https://lnkd.in/grcemKec<br><br>•    Ana Basiri Spoke at the Scottish Parliament<br>Prof. Ana Basiri contributed expert testimony during a parliamentary session on AI and the UK-EU Trade &amp; Cooperation Agreement, held at Holyrood.<br>📺 Watch the full session<br><br>•    Public Lecture: “Big Data, Bigger Holes”<br>On Thursday, 5 June, Prof. Basiri delivered a well-attended talk at the ARC, University of Glasgow, discussing the power and implications of missing data.<br>🎟️ Event link<br><br>•    Ongoing UX Research on Missing Data Visualisation<br>Merve Polat Kayali launched a survey exploring how users interact with and interpret missing data on maps, building on Anthony Robinson’s work. The study aimed to better understand user perception of absence and uncertainty in geospatial contexts.<br>🗺️ Take the survey<br><br>🧭 Team News<br>Quarterly Away Day<br>The GDSG team gathered for our quarterly Lab Away Day, featuring presentations from each team member on their latest research.<br><br>Team Spotlight: Prof. Ana Basiri<br>As Professor of Geospatial Data Science, Director of the Centre for Data Science &amp; AI, and UKRI Future Leaders Fellow, Ana Basiri led our group with a commitment to tackling bias, data unavailability, and complexity in location-based services.<br>#InclusiveTech #FutureLeaders #SmartDecisions<br><br>🗓️ Past Events &amp; Milestones<br><br>Keynotes at LBS 2025 (Finland)<br>Prof. Ana Basiri delivered a keynote, and Joe Shingleton presented on geospatial data quality in generative AI contexts.<br><br>🔗 Stay Connected<br>🌐 Website: https://gdsglasgow.github.io/<br>LinkedIn:<br>🐦 Twitter/X: https://x.com/GSDSglasgow<br>📧 Subscribe: [Insert signup link]<br>📢 Forward this newsletter to colleagues or collaborators who may be interested!</p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/1745569981107.jpg" data-size="1279x1705"><img loading="lazy" src="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/1745569981107-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/Ana.jpg" data-size="1536x1536"><img loading="lazy" src="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/Ana-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/james.jpg" data-size="2047x1153"><img loading="lazy" src="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/james-thumbnail.jpg" alt="" width="720" height="406"></a></figure>
+<figure class="gallery__item"><a href="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/1745923028559.jpg" data-size="1770x1327"><img loading="lazy" src="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/1745923028559-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/Joe-2.jpg" data-size="2047x1152"><img loading="lazy" src="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/Joe-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/1745923028575.jpg" data-size="1228x916"><img loading="lazy" src="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/1745923028575-thumbnail.jpg" alt="" width="720" height="537"></a></figure>
+<figure class="gallery__item"><a href="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/ana-2.jpeg" data-size="1500x1000"><img loading="lazy" src="https://pjgerrits.github.io/gdsg_publii/media/posts/44/gallery/ana-2-thumbnail.jpeg" alt="" width="720" height="480"></a></figure>
+</div></div>
+<p><em>Geospatial Data Science Group Quarterly Newsletter - June 2025</em><br><em>School of Geographical &amp; Earth Sciences | University of Glasgow</em><br><em>Q2 2025</em><br><br>👋<strong> Welcome Note</strong><br>Dear colleagues, collaborators, and friends,<br><br>As we wrapped up another exciting quarter, we looked back at an incredibly productive and impactful few months for the Geospatial Data Science Group (GDSG). From major conference appearances and award-winning papers to impactful public talks and new research outputs, our interdisciplinary team continues to advance the boundaries of geospatial data science.<br><br>Thank you for being part of our growing community!<br><br>— The GDSG Communications Team</p>
+<hr>
+<p>🛰️ <strong>Research Highlights </strong><br><br>•    Best Paper Award at LBS 2025 🏆<br>Anahid Basiri and Joe Shingleton were awarded Best Paper at LBS 2025 for:<br><a href="https://eprints.gla.ac.uk/349410/" target="_blank" rel="noopener noreferrer">“Geospatial Data Quality in the Era of Generative AI: Can We Trust the Geographic Information Produced by Large Language Models?”</a><br>Their work addressed the pressing challenge of assessing trust in AI-generated geospatial information.<br><br>•    Best Full Paper Award at AGILE 2025 🏆<br>Anahid Basiri and Joe Shingleton were awarded Best Full Paper at AGILE 2025 with:<br><a href="https://agile-giss.copernicus.org/articles/6/11/2025/agile-giss-6-11-2025.pdf" target="_blank" rel="noopener noreferrer">“How close is ‘close’? An analysis of the spatial characteristics of perceived proximity using Large Language Models”</a><br>The paper introduces a novel approach using Large Language Models (LLMs) to analyse the nuanced concept of perceived spatial proximity. They found that perceived proximity is influenced by factors such as accessibility, transit connectivity, and administrative prominence, highlighting the complexity beyond mere geometric distance.<br><br>•    New Publication in Mathematics from Dominick Sutton, Anahid Basiri &amp; Ziqi Li: <a href="https://www.mdpi.com/journal/mathematics/special_issues/H80A7S5AQA" target="_blank" rel="noopener noreferrer">“Exploring a Diagnostic Test for Missingness at Random”🚨</a><br>This open-access study investigated the potential for a new diagnostic test to identify when data is missing at random. Although the test fell short of practical use, the paper introduced a thought-provoking extension to standard missing data classifications.</p>
+<p>•    New Publication in Habitat International from Xinyi Yuan, Ziqi Li, Anahid Basiri, and Mingshu Wang: <a href="https://www.sciencedirect.com/science/article/pii/S0197397525001730" target="_blank" rel="noopener noreferrer">"Where England's cities are growing: Evidence from big building footprint data and explainable AI"</a> <a href="https://www.mdpi.com/journal/mathematics/special_issues/H80A7S5AQA" target="_blank" rel="noopener noreferrer">🚨</a><br>This paper explores urban development patterns across England. Using building footprints and SHAP, they work to uncover how population density, ethnic composition, and deprivation jointly shape urban growth over past five years. </p>
+<hr>
+<p>🌍 <strong>Impact &amp; Engagement</strong><br><br>•    Ongoing UX Research on Missing Data Visualisation<br>Merve Polat Kayali launched a survey exploring how users interact with and interpret missing data on maps, building on Anthony Robinson’s work. The study aimed to better understand user perception of absence and uncertainty in geospatial contexts. <br>🗺️<a href="https://uofg.qualtrics.com/jfe/form/SV_a3rlYFfLuhhllAO" target="_blank" rel="noopener noreferrer"> Take the survey</a><br><br>•    Ana Basiri Spoke at the Scottish Parliament<br>Prof. Ana Basiri contributed expert testimony during a parliamentary session on AI and the UK-EU Trade &amp; Cooperation Agreement, held at Holyrood.<br>📺<a href="https://www.scottishparliament.tv/meeting/constitution-europe-external-affairs-and-culture-committee-march-13-2025" target="_blank" rel="noopener noreferrer"> Watch the full session</a><br><br>•    Public Lecture: “Big Data, Bigger Holes”<br>On Thursday, 5 June, Prof. Basiri delivered a well-attended talk at the ARC, University of Glasgow, discussing the power and implications of missing data.<br>🎟️ <a href="https://www.eventbrite.co.uk/e/arc-conversations-big-data-bigger-holes-the-power-of-missing-data-tickets-1341910483379?msockid=1525b7f8f25f61c30f0ea27df3bf60dc" target="_blank" rel="noopener noreferrer">Event link</a></p>
+<p>•    Keynotes at LBS 2025: "Geospatial Data Quality in the Era of Generative AI"<br>Prof. Ana Basiri delivered a keynote, Meiliu Wu chaired a session, and Joe Shingleton presented on geospatial data quality in generative AI contexts.</p>
+<p>•    Panellist: Centre for Digital Trust and Society Forum 2025 -  Generative AI and Security<br>Prof. Ana Basiri served on a insightful and thought provoking panel in early July, representing the University of Glasgow Geospatial Data Science Group</p>
+<p>•    Keynotes at AGIT Conference 2025: "Big Data, Bigger Holes - Navigating the Big Data - Good Data Paradox"<br>Prof. Ana Basiri delivered a keynote on navigating big data. </p>
+<hr>
+<p>🧭<strong> Team News</strong><br>•    Quarterly Away Day<br>The GDSG team gathered for our quarterly Lab Away Day, featuring presentations from each team member on their latest research.<br><br>•    Team Spotlight: Prof. Ana Basiri<br>As Professor of Geospatial Data Science, Director of the Centre for Data Science &amp; AI, and UKRI Future Leaders Fellow, Ana Basiri led our group with a commitment to tackling bias, data unavailability, and complexity in location-based services.</p>
+<p>•    Team Spotlight: Joseph Shingleton<br>Joe works as one of our Research Software Engineering Scientists and is dedicated to advancing the reliability, consistency, accuracy, and real-world usefulness of large language models. </p>
+<hr>
+<p>🗓️ <strong>Upcoming Events</strong><br>•    <a href="https://www.gla.ac.uk/research/az/datascience/events/festival/" target="_blank" rel="noopener noreferrer">Festival of Data Science &amp; AI</a> hosted by the Centre for Data Science and AI<br>University of Glasgow<em> | </em> Advanced Research Centre (ARC)<em> | </em> 27-29 October, 2025</p>
+<hr>
+<p>📨 Stay Connected<br>🌐 <a href="https://gdsglasgow.github.io/" target="_blank" rel="noopener noreferrer">Website</a><br>🔗<a href="https://www.linkedin.com/company/university-of-glasgow-geospatial-data-science-group?trk=public_post_follow-view-profile" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>🐦 <a href="https://x.com/GSDSglasgow" target="_blank" rel="noopener noreferrer">Twitter/X</a><br>📧 Subscribe: [Insert signup link]<br>📢 Forward this newsletter to colleagues or collaborators who may be interested!</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
             ]]>
         </content>
     </entry>
@@ -52,59 +77,6 @@
         <content type="html">
             <![CDATA[
                 <p>Our team attended the <a href="https://lbs2025.lbsconference.org">2025 International Conference on Location-Based Services (LBS)</a>. <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Professor Ana Basiri</a> and <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Dr. Joseph Shingleton</a> were awarded best paper for the presentation titled ...".....".</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>June 2025 Newsletter for Geospatial Data Science</title>
-        <author>
-            <name>Piet Gerrits</name>
-        </author>
-        <link href="https://pjgerrits.github.io/gdsg_publii/this-is-a-markdown-post/"/>
-        <id>https://pjgerrits.github.io/gdsg_publii/this-is-a-markdown-post/</id>
-            <category term="Newsletter"/>
-            <category term="GDSG Team"/>
-            <category term="Current Projects"/>
-
-        <updated>2025-06-05T11:48:20+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Geospatial Data Science Group Quarterly Newsletter School of Geographical &amp; Earth Sciences | University of Glasgow Q2 2025 👋 Welcome&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Geospatial Data Science Group Quarterly Newsletter
-School of Geographical &amp; Earth Sciences | University of Glasgow
-Q2 2025</p><p>👋 Welcome Note
-Dear colleagues, collaborators, and friends,</p><p>As we wrapped up another exciting quarter, we looked back at an incredibly productive and impactful few months for the Geospatial Data Science Group (GDSG). From major conference appearances and award-winning papers to impactful public talks and new research outputs, our interdisciplinary team continues to advance the boundaries of geospatial data science.</p><p>Thank you for being part of our growing community!</p><p>— The GDSG Communications Team</p><p>🛰️ Research Highlights</p><p>•	Best Paper Award at LBS 2025 🏆
-Anahid Basiri and Joe Shingleton were awarded Best Paper at LBS 2025 for:
-“Geospatial Data Quality in the Era of Generative AI: Can We Trust the Geographic Information Produced by Large Language Models?”
-Their work addressed the pressing challenge of assessing trust in AI-generated geospatial information.</p><p>•	Finalists at AGILE 2025
-Anahid Basiri and Joe Shingleton were finalists for Best Paper at AGILE 2025 with:
-“How close is ‘close’? An analysis of the spatial characteristics of perceived proximity using Large Language Models”
-The paper was presented during the Best Paper Session on Friday, 13 June.</p><p>New Publication in Mathematics: “Exploring a Diagnostic Test for Missingness at Random”
-Dominick Sutton, Anahid Basiri &amp; Ziqi Li
-This open-access study investigated the potential for a new diagnostic test to identify when data is missing at random. Although the test fell short of practical use, the paper introduced a thought-provoking extension to standard missing data classifications.
-👉 Read the paper</p><p>🌍 Impact &amp; Engagement</p><p>Ongoing UX Research on Missing Data Visualisation
-Merve Polat Kayali launched a survey building on Anthony Robinson’s work, investigating how users interpret and interact with missing data on maps.
-🗺️ Take the survey: <a href="https://lnkd.in/grcemKec">https://lnkd.in/grcemKec</a></p><p>•	Ana Basiri Spoke at the Scottish Parliament
-Prof. Ana Basiri contributed expert testimony during a parliamentary session on AI and the UK-EU Trade &amp; Cooperation Agreement, held at Holyrood.
-📺 Watch the full session</p><p>•	Public Lecture: “Big Data, Bigger Holes”
-On Thursday, 5 June, Prof. Basiri delivered a well-attended talk at the ARC, University of Glasgow, discussing the power and implications of missing data.
-🎟️ Event link</p><p>•	Ongoing UX Research on Missing Data Visualisation
-Merve Polat Kayali launched a survey exploring how users interact with and interpret missing data on maps, building on Anthony Robinson’s work. The study aimed to better understand user perception of absence and uncertainty in geospatial contexts.
-🗺️ Take the survey</p><p>🧭 Team News
-Quarterly Away Day
-The GDSG team gathered for our quarterly Lab Away Day, featuring presentations from each team member on their latest research.</p><p>Team Spotlight: Prof. Ana Basiri
-As Professor of Geospatial Data Science, Director of the Centre for Data Science &amp; AI, and UKRI Future Leaders Fellow, Ana Basiri led our group with a commitment to tackling bias, data unavailability, and complexity in location-based services.
-#InclusiveTech #FutureLeaders #SmartDecisions</p><p>🗓️ Past Events &amp; Milestones</p><p>Keynotes at LBS 2025 (Finland)
-Prof. Ana Basiri delivered a keynote, and Joe Shingleton presented on geospatial data quality in generative AI contexts.</p><p>🔗 Stay Connected
-🌐 Website: <a href="https://gdsglasgow.github.io/">https://gdsglasgow.github.io/</a>
-LinkedIn:
-🐦 Twitter/X: <a href="https://x.com/GSDSglasgow">https://x.com/GSDSglasgow</a>
-📧 Subscribe: [Insert signup link]
-📢 Forward this newsletter to colleagues or collaborators who may be interested!</p>
             ]]>
         </content>
     </entry>
@@ -290,6 +262,35 @@ LinkedIn:
                     <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/33/KU_OETR_Logo_EN.png" class="type:primaryImage" alt="" /></p>
                 <p>This project aims to overcome historiographical and disciplinary limitations in social and economic history, historical geography and urban studies for the Ottoman Empire and the Republic of Türkiye. The chosen long-term Ottoman/Turkish perspective is intended to facilitate comparative approaches so as to overcome the limitations of national historiographies. By extending the analysis up to 2000 the project also challenges the disciplinary divide between economic history, economics and urban studies in research on Türkiye.</p>
 <p>Find out more at <a href="https://urbanoccupations.ku.edu.tr">https://urbanoccupations.ku.edu.tr</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Glasgow As A Living Lab: GALLANT</title>
+        <author>
+            <name>Piet Gerrits</name>
+        </author>
+        <link href="https://pjgerrits.github.io/gdsg_publii/gallant-2/"/>
+        <id>https://pjgerrits.github.io/gdsg_publii/gallant-2/</id>
+        <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" medium="image" />
+            <category term="Research Partners"/>
+            <category term="Community Projects"/>
+            <category term="Collaborative Academic Projects"/>
+
+        <updated>2025-06-05T01:47:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" alt="" />
+                    GALLANT: Glasgow as a Living Lab Accelerating Novel Transformation GALLANT is a Natural Environment Research Council (NERC)-funded (£10.2M) partnership between&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" class="type:primaryImage" alt="" /></p>
+                <h4 class="unresponsivestyle">GALLANT: Glasgow as a Living Lab Accelerating Novel Transformation</h4>
+<p>GALLANT is a <a href="https://www.ukri.org/councils/nerc/">Natural Environment Research Council (NERC)</a>-funded (£10.2M) partnership between the <a href="https://www.gla.ac.uk">University of Glasgow</a> and <a href="https://www.glasgow.gov.uk">Glasgow City Council</a> and will use Glasgow as a living lab to trial new sustainable solutions throughout the city. GALLANT takes a whole-systems approach. While addressing the city’s key environmental challenges, we will consider the co-benefits and trade-offs for public health, wellbeing and economy. GALLANT aims to deliver the social priorities of the <a href="https://www.un.org/en/">United Nations (UN)</a> <a href="https://sdgs.un.org/goals">Sustainable Development Goals (SDGs)</a> while remaining within the planetary boundaries of a 1.5°C world - using doughnut economics as a framework.</p>
+<p>The programme brings together over 50 multidisciplinary researchers with 29 public and private sector partners across the city region. Together we aim not only to bring nature back into the city system, but make meaningful, lasting change that embeds sustainability across major policy decisions and empowers communities as stewards of their local places. GALLANT will work with local partners and communities to transform the city into a thriving place for people and nature. GALLANT will help Glasgow achieve its goal to be carbon neutral by 2030 and accelerate its path to climate resilience.</p>
+<p>Find out more at <a href="https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/">https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/ : </a></p>
             ]]>
         </content>
     </entry>
