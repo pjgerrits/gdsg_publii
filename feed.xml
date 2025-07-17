@@ -3,12 +3,35 @@
     <title>gdsglasgow_publii_v3</title>
     <link href="https://pjgerrits.github.io/gdsg_publii/feed.xml" rel="self" />
     <link href="https://pjgerrits.github.io/gdsg_publii" />
-    <updated>2025-07-07T12:23:53+01:00</updated>
+    <updated>2025-07-17T10:48:25+01:00</updated>
     <author>
         <name>Piet Gerrits</name>
     </author>
     <id>https://pjgerrits.github.io/gdsg_publii</id>
 
+    <entry>
+        <title>Quarterly Newsletter - June 2025</title>
+        <author>
+            <name>Ndali Liita Cairney</name>
+        </author>
+        <link href="https://pjgerrits.github.io/gdsg_publii/quartlety-n/"/>
+        <id>https://pjgerrits.github.io/gdsg_publii/quartlety-n/</id>
+            <category term="Newsletter"/>
+            <category term="GDSG Team"/>
+            <category term="Current Projects"/>
+
+        <updated>2025-07-17T10:45:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Geospatial Data Science Group Quarterly Newsletter School of Geographical &amp; Earth Sciences | University of Glasgow Q2 2025 👋 Welcome&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Geospatial Data Science Group Quarterly Newsletter<br>School of Geographical &amp; Earth Sciences | University of Glasgow<br>Q2 2025<br><br>👋 Welcome Note<br>Dear colleagues, collaborators, and friends,<br><br>As we wrapped up another exciting quarter, we looked back at an incredibly productive and impactful few months for the Geospatial Data Science Group (GDSG). From major conference appearances and award-winning papers to impactful public talks and new research outputs, our interdisciplinary team continues to advance the boundaries of geospatial data science.<br><br>Thank you for being part of our growing community!<br><br>— The GDSG Communications Team<br><br>🛰️ Research Highlights<br><br>•    Best Paper Award at LBS 2025 🏆<br>Anahid Basiri and Joe Shingleton were awarded Best Paper at LBS 2025 for:<br>“Geospatial Data Quality in the Era of Generative AI: Can We Trust the Geographic Information Produced by Large Language Models?”<br>Their work addressed the pressing challenge of assessing trust in AI-generated geospatial information.<br><br>•    Finalists at AGILE 2025<br>Anahid Basiri and Joe Shingleton were finalists for Best Paper at AGILE 2025 with:<br>“How close is ‘close’? An analysis of the spatial characteristics of perceived proximity using Large Language Models”<br>The paper was presented during the Best Paper Session on Friday, 13 June.<br><br>New Publication in Mathematics: “Exploring a Diagnostic Test for Missingness at Random”<br>Dominick Sutton, Anahid Basiri &amp; Ziqi Li<br>This open-access study investigated the potential for a new diagnostic test to identify when data is missing at random. Although the test fell short of practical use, the paper introduced a thought-provoking extension to standard missing data classifications.<br>👉 Read the paper<br><br>🌍 Impact &amp; Engagement<br><br>Ongoing UX Research on Missing Data Visualisation<br>Merve Polat Kayali launched a survey building on Anthony Robinson’s work, investigating how users interpret and interact with missing data on maps.<br>🗺️ Take the survey: https://lnkd.in/grcemKec<br><br>•    Ana Basiri Spoke at the Scottish Parliament<br>Prof. Ana Basiri contributed expert testimony during a parliamentary session on AI and the UK-EU Trade &amp; Cooperation Agreement, held at Holyrood.<br>📺 Watch the full session<br><br>•    Public Lecture: “Big Data, Bigger Holes”<br>On Thursday, 5 June, Prof. Basiri delivered a well-attended talk at the ARC, University of Glasgow, discussing the power and implications of missing data.<br>🎟️ Event link<br><br>•    Ongoing UX Research on Missing Data Visualisation<br>Merve Polat Kayali launched a survey exploring how users interact with and interpret missing data on maps, building on Anthony Robinson’s work. The study aimed to better understand user perception of absence and uncertainty in geospatial contexts.<br>🗺️ Take the survey<br><br>🧭 Team News<br>Quarterly Away Day<br>The GDSG team gathered for our quarterly Lab Away Day, featuring presentations from each team member on their latest research.<br><br>Team Spotlight: Prof. Ana Basiri<br>As Professor of Geospatial Data Science, Director of the Centre for Data Science &amp; AI, and UKRI Future Leaders Fellow, Ana Basiri led our group with a commitment to tackling bias, data unavailability, and complexity in location-based services.<br>#InclusiveTech #FutureLeaders #SmartDecisions<br><br>🗓️ Past Events &amp; Milestones<br><br>Keynotes at LBS 2025 (Finland)<br>Prof. Ana Basiri delivered a keynote, and Joe Shingleton presented on geospatial data quality in generative AI contexts.<br><br>🔗 Stay Connected<br>🌐 Website: https://gdsglasgow.github.io/<br>LinkedIn:<br>🐦 Twitter/X: https://x.com/GSDSglasgow<br>📧 Subscribe: [Insert signup link]<br>📢 Forward this newsletter to colleagues or collaborators who may be interested!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>International Conference on Location-Based Services (LBS) 2025</title>
         <author>
@@ -77,8 +100,9 @@ The GDSG team gathered for our quarterly Lab Away Day, featuring presentations f
 As Professor of Geospatial Data Science, Director of the Centre for Data Science &amp; AI, and UKRI Future Leaders Fellow, Ana Basiri led our group with a commitment to tackling bias, data unavailability, and complexity in location-based services.
 #InclusiveTech #FutureLeaders #SmartDecisions</p><p>🗓️ Past Events &amp; Milestones</p><p>Keynotes at LBS 2025 (Finland)
 Prof. Ana Basiri delivered a keynote, and Joe Shingleton presented on geospatial data quality in generative AI contexts.</p><p>🔗 Stay Connected
-🌐 Website: [Insert group webpage]
-🐦 Twitter/X: [@GDSG_UofG or preferred handle]
+🌐 Website: <a href="https://gdsglasgow.github.io/">https://gdsglasgow.github.io/</a>
+LinkedIn:
+🐦 Twitter/X: <a href="https://x.com/GSDSglasgow">https://x.com/GSDSglasgow</a>
 📧 Subscribe: [Insert signup link]
 📢 Forward this newsletter to colleagues or collaborators who may be interested!</p>
             ]]>
@@ -266,35 +290,6 @@ Prof. Ana Basiri delivered a keynote, and Joe Shingleton presented on geospatial
                     <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/33/KU_OETR_Logo_EN.png" class="type:primaryImage" alt="" /></p>
                 <p>This project aims to overcome historiographical and disciplinary limitations in social and economic history, historical geography and urban studies for the Ottoman Empire and the Republic of Türkiye. The chosen long-term Ottoman/Turkish perspective is intended to facilitate comparative approaches so as to overcome the limitations of national historiographies. By extending the analysis up to 2000 the project also challenges the disciplinary divide between economic history, economics and urban studies in research on Türkiye.</p>
 <p>Find out more at <a href="https://urbanoccupations.ku.edu.tr">https://urbanoccupations.ku.edu.tr</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Glasgow As A Living Lab: GALLANT</title>
-        <author>
-            <name>Piet Gerrits</name>
-        </author>
-        <link href="https://pjgerrits.github.io/gdsg_publii/gallant-2/"/>
-        <id>https://pjgerrits.github.io/gdsg_publii/gallant-2/</id>
-        <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" medium="image" />
-            <category term="Research Partners"/>
-            <category term="Community Projects"/>
-            <category term="Collaborative Academic Projects"/>
-
-        <updated>2025-06-05T01:47:34+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" alt="" />
-                    GALLANT: Glasgow as a Living Lab Accelerating Novel Transformation GALLANT is a Natural Environment Research Council (NERC)-funded (£10.2M) partnership between&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" class="type:primaryImage" alt="" /></p>
-                <h4 class="unresponsivestyle">GALLANT: Glasgow as a Living Lab Accelerating Novel Transformation</h4>
-<p>GALLANT is a <a href="https://www.ukri.org/councils/nerc/">Natural Environment Research Council (NERC)</a>-funded (£10.2M) partnership between the <a href="https://www.gla.ac.uk">University of Glasgow</a> and <a href="https://www.glasgow.gov.uk">Glasgow City Council</a> and will use Glasgow as a living lab to trial new sustainable solutions throughout the city. GALLANT takes a whole-systems approach. While addressing the city’s key environmental challenges, we will consider the co-benefits and trade-offs for public health, wellbeing and economy. GALLANT aims to deliver the social priorities of the <a href="https://www.un.org/en/">United Nations (UN)</a> <a href="https://sdgs.un.org/goals">Sustainable Development Goals (SDGs)</a> while remaining within the planetary boundaries of a 1.5°C world - using doughnut economics as a framework.</p>
-<p>The programme brings together over 50 multidisciplinary researchers with 29 public and private sector partners across the city region. Together we aim not only to bring nature back into the city system, but make meaningful, lasting change that embeds sustainability across major policy decisions and empowers communities as stewards of their local places. GALLANT will work with local partners and communities to transform the city into a thriving place for people and nature. GALLANT will help Glasgow achieve its goal to be carbon neutral by 2030 and accelerate its path to climate resilience.</p>
-<p>Find out more at <a href="https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/">https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/ : </a></p>
             ]]>
         </content>
     </entry>
