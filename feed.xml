@@ -3,7 +3,7 @@
     <title>gdsglasgow_publii_v3</title>
     <link href="https://pjgerrits.github.io/gdsg_publii/feed.xml" rel="self" />
     <link href="https://pjgerrits.github.io/gdsg_publii" />
-    <updated>2025-07-17T16:04:01+01:00</updated>
+    <updated>2025-07-30T09:32:47+01:00</updated>
     <author>
         <name>Piet Gerrits</name>
     </author>
@@ -76,7 +76,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Our team attended the <a href="https://lbs2025.lbsconference.org">2025 International Conference on Location-Based Services (LBS)</a>. <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Professor Ana Basiri</a> and <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Dr. Joseph Shingleton</a> were awarded best paper for the presentation titled ...".....".</p>
+                <p>Our team attended the <a href="https://lbs2025.lbsconference.org">2025 International Conference on Location-Based Services (LBS)</a>. <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Professor Ana Basiri</a> and <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Dr. Joseph Shingleton</a> were awarded Best Paper at LBS 2025 for: “Geospatial Data Quality in the Era of Generative AI: Can We Trust the Geographic Information Produced by Large Language Models?”<br>Their work addressed the pressing challenge of assessing trust in AI-generated geospatial information.</p>
             ]]>
         </content>
     </entry>
