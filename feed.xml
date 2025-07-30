@@ -3,7 +3,7 @@
     <title>gdsglasgow_publii_v3</title>
     <link href="https://pjgerrits.github.io/gdsg_publii/feed.xml" rel="self" />
     <link href="https://pjgerrits.github.io/gdsg_publii" />
-    <updated>2025-07-30T09:32:47+01:00</updated>
+    <updated>2025-07-30T10:27:06+01:00</updated>
     <author>
         <name>Piet Gerrits</name>
     </author>
@@ -100,7 +100,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/39/agile_logo.svg" class="type:primaryImage" alt="" /></p>
-                <p>Our team was at the <a href="https://agile-gi.eu/conference-2025">Association of Geographic Laboratories in Europe (AGILE) Conference: on 10th June to 13th June 2025, Dresden, Gemany</a>.</p>
+                <p>Our team was at the <a href="https://agile-gi.eu/conference-2025">Association of Geographic Laboratories in Europe (AGILE) Conference: on 10th June to 13th June 2025, Dresden, Gemany</a>. Anahid Basiri and Joe Shingleton were awarded Best Full Paper at AGILE 2025 with: “How close is ‘close’? An analysis of the spatial characteristics of perceived proximity using Large Language Models”. The paper introduces a novel approach using Large Language Models (LLMs) to analyse the nuanced concept of perceived spatial proximity. They found that perceived proximity is influenced by factors such as accessibility, transit connectivity, and administrative prominence, highlighting the complexity beyond mere geometric distance.</p>
             ]]>
         </content>
     </entry>
