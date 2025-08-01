@@ -3,14 +3,42 @@
     <title>gdsglasgow_publii_v3</title>
     <link href="https://pjgerrits.github.io/gdsg_publii/feed.xml" rel="self" />
     <link href="https://pjgerrits.github.io/gdsg_publii" />
-    <updated>2025-07-30T10:27:06+01:00</updated>
+    <updated>2025-08-01T12:16:14+01:00</updated>
     <author>
         <name>Piet Gerrits</name>
     </author>
     <id>https://pjgerrits.github.io/gdsg_publii</id>
 
     <entry>
-        <title>Quarterly Newsletter - June 2025</title>
+        <title>Welcome to the home of the Geospatial Data Science Group at the University of Glasgow</title>
+        <author>
+            <name>Piet Gerrits</name>
+        </author>
+        <link href="https://pjgerrits.github.io/gdsg_publii/welcome-to-the-home-of-the-geospatial-data-science-group-at-the-university-of-glasgow/"/>
+        <id>https://pjgerrits.github.io/gdsg_publii/welcome-to-the-home-of-the-geospatial-data-science-group-at-the-university-of-glasgow/</id>
+        <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/6/prof_pic3.jpeg" medium="image" />
+            <category term="Impact Highlight"/>
+
+        <updated>2025-08-01T12:05:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pjgerrits.github.io/gdsg_publii/media/posts/6/prof_pic3.jpeg" alt="" />
+                    The Geospatial Data Science Group (GDSG) at The University of Glasgow’s School of Geographical &amp; Earth Sciences operates at the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/6/prof_pic3.jpeg" class="type:primaryImage" alt="" /></p>
+                <article class="post-content">
+<div id="markdown-content">
+<p>The Geospatial Data Science Group (GDSG) at <a href="https://www.gla.ac.uk">The University of Glasgow</a>’s <a href="https://www.gla.ac.uk/schools/ges/">School of Geographical &amp; Earth Sciences</a> operates at the dynamic intersection of data science and geospatial data. Under the leadership of Professor Ana Basiri, our work focuses on understanding and leveraging geospatial data to design smarter, fairer and more inclusive location based services that support better decision making.<br><br>Our mission is to make meaningful sense of geospatial data, from traditional sources to cutting edge sensor technologies and emerging data streams such as crowdsourced and social media data. We develop innovative models to address challenges like uncertainty, bias, data gaps and privacy, enabling a deeper understanding of our cities, societies and the people within them.</p>
+</div>
+</article>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Quarterly Newsletter - July 2025</title>
         <author>
             <name>Ndali Liita Cairney</name>
         </author>
@@ -52,7 +80,7 @@
 <hr>
 <p>🗓️ <strong>Upcoming Events</strong><br>•    <a href="https://www.gla.ac.uk/research/az/datascience/events/festival/" target="_blank" rel="noopener noreferrer">Festival of Data Science &amp; AI</a> hosted by the Centre for Data Science and AI<br>University of Glasgow<em> | </em> Advanced Research Centre (ARC)<em> | </em> 27-29 October, 2025</p>
 <hr>
-<p>📨 Stay Connected<br>🌐 <a href="https://gdsglasgow.github.io/" target="_blank" rel="noopener noreferrer">Website</a><br>🔗<a href="https://www.linkedin.com/company/university-of-glasgow-geospatial-data-science-group?trk=public_post_follow-view-profile" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>🐦 <a href="https://x.com/GSDSglasgow" target="_blank" rel="noopener noreferrer">Twitter/X</a><br>📧 Subscribe: [Insert signup link]<br>📢 Forward this newsletter to colleagues or collaborators who may be interested!</p>
+<p>📨 Stay Connected<br>🌐 <a href="https://gdsglasgow.github.io/" target="_blank" rel="noopener noreferrer">Website</a><br>🔗<a href="https://www.linkedin.com/company/university-of-glasgow-geospatial-data-science-group?trk=public_post_follow-view-profile" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>🐦 <a href="https://x.com/GSDSglasgow" target="_blank" rel="noopener noreferrer">Twitter/X</a><br>📢 Forward this newsletter to colleagues or collaborators who may be interested!</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
             ]]>
         </content>
@@ -64,6 +92,7 @@
         </author>
         <link href="https://pjgerrits.github.io/gdsg_publii/international-conference-on-location-based-services-lbs-2025/"/>
         <id>https://pjgerrits.github.io/gdsg_publii/international-conference-on-location-based-services-lbs-2025/</id>
+            <category term="Newsletter"/>
             <category term="Geospatial Science Conferences"/>
             <category term="GDSG Team"/>
             <category term="Current Projects"/>
@@ -71,12 +100,12 @@
         <updated>2025-06-06T22:02:58+01:00</updated>
             <summary>
                 <![CDATA[
-                    Our team attended the 2025 International Conference on Location-Based Services (LBS). Professor Ana Basiri and Dr. Joseph Shingleton were awarded&hellip;
+                    Our team attended the 2025 International Conference on Location-Based Services (LBS). Professor Ana Basiri and Joseph Shingleton were awarded Best&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Our team attended the <a href="https://lbs2025.lbsconference.org">2025 International Conference on Location-Based Services (LBS)</a>. <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Professor Ana Basiri</a> and <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Dr. Joseph Shingleton</a> were awarded Best Paper at LBS 2025 for: “Geospatial Data Quality in the Era of Generative AI: Can We Trust the Geographic Information Produced by Large Language Models?”<br>Their work addressed the pressing challenge of assessing trust in AI-generated geospatial information.</p>
+                <p>Our team attended the <a href="https://lbs2025.lbsconference.org">2025 International Conference on Location-Based Services (LBS)</a>. <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Professor Ana Basiri</a> and <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Joseph Shingleton</a> were awarded Best Paper at LBS 2025 for: “Geospatial Data Quality in the Era of Generative AI: Can We Trust the Geographic Information Produced by Large Language Models?”. Their work addressed the pressing challenge of assessing trust in AI-generated geospatial information.</p>
             ]]>
         </content>
     </entry>
@@ -88,6 +117,7 @@
         <link href="https://pjgerrits.github.io/gdsg_publii/agile-2025/"/>
         <id>https://pjgerrits.github.io/gdsg_publii/agile-2025/</id>
         <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/39/agile_logo.svg" medium="image" />
+            <category term="Newsletter"/>
             <category term="Geospatial Science Conferences"/>
 
         <updated>2025-06-05T11:35:53+01:00</updated>
@@ -262,35 +292,6 @@
                     <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/33/KU_OETR_Logo_EN.png" class="type:primaryImage" alt="" /></p>
                 <p>This project aims to overcome historiographical and disciplinary limitations in social and economic history, historical geography and urban studies for the Ottoman Empire and the Republic of Türkiye. The chosen long-term Ottoman/Turkish perspective is intended to facilitate comparative approaches so as to overcome the limitations of national historiographies. By extending the analysis up to 2000 the project also challenges the disciplinary divide between economic history, economics and urban studies in research on Türkiye.</p>
 <p>Find out more at <a href="https://urbanoccupations.ku.edu.tr">https://urbanoccupations.ku.edu.tr</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Glasgow As A Living Lab: GALLANT</title>
-        <author>
-            <name>Piet Gerrits</name>
-        </author>
-        <link href="https://pjgerrits.github.io/gdsg_publii/gallant-2/"/>
-        <id>https://pjgerrits.github.io/gdsg_publii/gallant-2/</id>
-        <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" medium="image" />
-            <category term="Research Partners"/>
-            <category term="Community Projects"/>
-            <category term="Collaborative Academic Projects"/>
-
-        <updated>2025-06-05T01:47:34+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" alt="" />
-                    GALLANT: Glasgow as a Living Lab Accelerating Novel Transformation GALLANT is a Natural Environment Research Council (NERC)-funded (£10.2M) partnership between&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" class="type:primaryImage" alt="" /></p>
-                <h4 class="unresponsivestyle">GALLANT: Glasgow as a Living Lab Accelerating Novel Transformation</h4>
-<p>GALLANT is a <a href="https://www.ukri.org/councils/nerc/">Natural Environment Research Council (NERC)</a>-funded (£10.2M) partnership between the <a href="https://www.gla.ac.uk">University of Glasgow</a> and <a href="https://www.glasgow.gov.uk">Glasgow City Council</a> and will use Glasgow as a living lab to trial new sustainable solutions throughout the city. GALLANT takes a whole-systems approach. While addressing the city’s key environmental challenges, we will consider the co-benefits and trade-offs for public health, wellbeing and economy. GALLANT aims to deliver the social priorities of the <a href="https://www.un.org/en/">United Nations (UN)</a> <a href="https://sdgs.un.org/goals">Sustainable Development Goals (SDGs)</a> while remaining within the planetary boundaries of a 1.5°C world - using doughnut economics as a framework.</p>
-<p>The programme brings together over 50 multidisciplinary researchers with 29 public and private sector partners across the city region. Together we aim not only to bring nature back into the city system, but make meaningful, lasting change that embeds sustainability across major policy decisions and empowers communities as stewards of their local places. GALLANT will work with local partners and communities to transform the city into a thriving place for people and nature. GALLANT will help Glasgow achieve its goal to be carbon neutral by 2030 and accelerate its path to climate resilience.</p>
-<p>Find out more at <a href="https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/">https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/ : </a></p>
             ]]>
         </content>
     </entry>
