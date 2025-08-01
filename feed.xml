@@ -3,7 +3,7 @@
     <title>gdsglasgow_publii_v3</title>
     <link href="https://pjgerrits.github.io/gdsg_publii/feed.xml" rel="self" />
     <link href="https://pjgerrits.github.io/gdsg_publii" />
-    <updated>2025-08-01T12:46:53+01:00</updated>
+    <updated>2025-08-01T13:05:35+01:00</updated>
     <author>
         <name>Piet Gerrits</name>
     </author>
@@ -82,54 +82,6 @@
 <hr>
 <p>📨 Stay Connected<br>🌐 <a href="https://gdsglasgow.github.io/" target="_blank" rel="noopener noreferrer">Website</a><br>🔗<a href="https://www.linkedin.com/company/university-of-glasgow-geospatial-data-science-group?trk=public_post_follow-view-profile" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>🐦 <a href="https://x.com/GSDSglasgow" target="_blank" rel="noopener noreferrer">Twitter/X</a><br>📢 Forward this newsletter to colleagues or collaborators who may be interested!</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>International Conference on Location-Based Services (LBS) 2025</title>
-        <author>
-            <name>Piet Gerrits</name>
-        </author>
-        <link href="https://pjgerrits.github.io/gdsg_publii/international-conference-on-location-based-services-lbs-2025/"/>
-        <id>https://pjgerrits.github.io/gdsg_publii/international-conference-on-location-based-services-lbs-2025/</id>
-            <category term="Newsletter"/>
-            <category term="Geospatial Science Conferences"/>
-            <category term="GDSG Team"/>
-
-        <updated>2025-06-06T22:02:58+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Our team attended the 2025 International Conference on Location-Based Services (LBS). Professor Ana Basiri and Joseph Shingleton were awarded Best&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Our team attended the <a href="https://lbs2025.lbsconference.org">2025 International Conference on Location-Based Services (LBS)</a>. <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Professor Ana Basiri</a> and <a href="https://pjgerrits.github.io/gdsg_publii/team2/">Joseph Shingleton</a> were awarded Best Paper at LBS 2025 for: “Geospatial Data Quality in the Era of Generative AI: Can We Trust the Geographic Information Produced by Large Language Models?”. Their work addressed the pressing challenge of assessing trust in AI-generated geospatial information.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>AGILE 2025</title>
-        <author>
-            <name>Piet Gerrits</name>
-        </author>
-        <link href="https://pjgerrits.github.io/gdsg_publii/agile-2025/"/>
-        <id>https://pjgerrits.github.io/gdsg_publii/agile-2025/</id>
-        <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/39/agile_logo.svg" medium="image" />
-            <category term="Newsletter"/>
-            <category term="Geospatial Science Conferences"/>
-
-        <updated>2025-06-05T11:35:53+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pjgerrits.github.io/gdsg_publii/media/posts/39/agile_logo.svg" alt="" />
-                    Our team was at the Association of Geographic Laboratories in Europe (AGILE) Conference: on 10th June to 13th June 2025,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/39/agile_logo.svg" class="type:primaryImage" alt="" /></p>
-                <p>Our team was at the <a href="https://agile-gi.eu/conference-2025">Association of Geographic Laboratories in Europe (AGILE) Conference: on 10th June to 13th June 2025, Dresden, Gemany</a>. Anahid Basiri and Joe Shingleton were awarded Best Full Paper at AGILE 2025 with: “How close is ‘close’? An analysis of the spatial characteristics of perceived proximity using Large Language Models”. The paper introduces a novel approach using Large Language Models (LLMs) to analyse the nuanced concept of perceived spatial proximity. They found that perceived proximity is influenced by factors such as accessibility, transit connectivity, and administrative prominence, highlighting the complexity beyond mere geometric distance.</p>
             ]]>
         </content>
     </entry>
@@ -291,6 +243,67 @@
                     <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/33/KU_OETR_Logo_EN.png" class="type:primaryImage" alt="" /></p>
                 <p>This project aims to overcome historiographical and disciplinary limitations in social and economic history, historical geography and urban studies for the Ottoman Empire and the Republic of Türkiye. The chosen long-term Ottoman/Turkish perspective is intended to facilitate comparative approaches so as to overcome the limitations of national historiographies. By extending the analysis up to 2000 the project also challenges the disciplinary divide between economic history, economics and urban studies in research on Türkiye.</p>
 <p>Find out more at <a href="https://urbanoccupations.ku.edu.tr">https://urbanoccupations.ku.edu.tr</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Glasgow As A Living Lab: GALLANT</title>
+        <author>
+            <name>Piet Gerrits</name>
+        </author>
+        <link href="https://pjgerrits.github.io/gdsg_publii/gallant-2/"/>
+        <id>https://pjgerrits.github.io/gdsg_publii/gallant-2/</id>
+        <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" medium="image" />
+            <category term="GSDS Team"/>
+            <category term="Collaborative Community Projects"/>
+
+        <updated>2025-06-05T01:47:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" alt="" />
+                    GALLANT: Glasgow as a Living Lab Accelerating Novel Transformation GALLANT is a Natural Environment Research Council (NERC)-funded (£10.2M) partnership between&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pjgerrits.github.io/gdsg_publii/media/posts/32/gallant.png" class="type:primaryImage" alt="" /></p>
+                <h4 class="unresponsivestyle">GALLANT: Glasgow as a Living Lab Accelerating Novel Transformation</h4>
+<p>GALLANT is a <a href="https://www.ukri.org/councils/nerc/">Natural Environment Research Council (NERC)</a>-funded (£10.2M) partnership between the <a href="https://www.gla.ac.uk">University of Glasgow</a> and <a href="https://www.glasgow.gov.uk">Glasgow City Council</a> and will use Glasgow as a living lab to trial new sustainable solutions throughout the city. GALLANT takes a whole-systems approach. While addressing the city’s key environmental challenges, we will consider the co-benefits and trade-offs for public health, wellbeing and economy. GALLANT aims to deliver the social priorities of the <a href="https://www.un.org/en/">United Nations (UN)</a> <a href="https://sdgs.un.org/goals">Sustainable Development Goals (SDGs)</a> while remaining within the planetary boundaries of a 1.5°C world - using doughnut economics as a framework.</p>
+<p>The programme brings together over 50 multidisciplinary researchers with 29 public and private sector partners across the city region. Together we aim not only to bring nature back into the city system, but make meaningful, lasting change that embeds sustainability across major policy decisions and empowers communities as stewards of their local places. GALLANT will work with local partners and communities to transform the city into a thriving place for people and nature. GALLANT will help Glasgow achieve its goal to be carbon neutral by 2030 and accelerate its path to climate resilience.</p>
+<p>Find out more at <a href="https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/">https://www.gla.ac.uk/research/az/sustainablesolutions/ourprojects/gallant/ : </a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Royal Academy of Engineering EngineeringX Safer End of Engineered Life (SEEL) Champion</title>
+        <author>
+            <name>Piet Gerrits</name>
+        </author>
+        <link href="https://pjgerrits.github.io/gdsg_publii/safer-end-of-engineered-life-3/"/>
+        <id>https://pjgerrits.github.io/gdsg_publii/safer-end-of-engineered-life-3/</id>
+            <category term="GDSG Videos &amp; Projects"/>
+            <category term="GDSG Team"/>
+            <category term="Current Projects"/>
+
+        <updated>2025-06-05T00:58:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Engineering X is an international collaboration founded by the Royal Academy of Engineering and Lloyd’s Register Foundation that brings global&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <header class="post-header"></header>
+<article>
+<p>Engineering X is an international collaboration founded by the <a href="https://raeng.org.uk">Royal Academy of Engineering </a>and <a href="https://www.lrfoundation.org.uk">Lloyd’s Register Foundation</a> that brings global experts together to engineer change.</p>
+</article>
+<p><a target="_blank" rel="noopener noreferrer"><div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/nCkBwFPPi_c" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></a></p>
+<p>Find out more at <a href="https://engineeringx.raeng.org.uk/about-us/">https://engineeringx.raeng.org.uk/about-us/</a></p>
+<p><a style="font-family: var(--font-base); font-size: 1em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Royal Academy of Engineering EngineeringX Safer End of Engineered Life (SEEL) Champion</a></p>
+<article>
+<p> </p>
+</article>
+<p> </p>
             ]]>
         </content>
     </entry>
