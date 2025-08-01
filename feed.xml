@@ -3,7 +3,7 @@
     <title>gdsglasgow_publii_v3</title>
     <link href="https://pjgerrits.github.io/gdsg_publii/feed.xml" rel="self" />
     <link href="https://pjgerrits.github.io/gdsg_publii" />
-    <updated>2025-08-01T12:16:14+01:00</updated>
+    <updated>2025-08-01T12:42:33+01:00</updated>
     <author>
         <name>Piet Gerrits</name>
     </author>
@@ -142,7 +142,7 @@
         <link href="https://pjgerrits.github.io/gdsg_publii/geotools/"/>
         <id>https://pjgerrits.github.io/gdsg_publii/geotools/</id>
         <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/38/GeoTools_740x412_acf_cropped-370x206.png" medium="image" />
-            <category term="Community Projects"/>
+            <category term="Collaborative Community Projects"/>
             <category term="Collaborative Academic Projects"/>
 
         <updated>2025-06-05T01:55:02+01:00</updated>
@@ -168,7 +168,9 @@
         <link href="https://pjgerrits.github.io/gdsg_publii/mapaction/"/>
         <id>https://pjgerrits.github.io/gdsg_publii/mapaction/</id>
         <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/37/2024-06-06-030546.3560182017-02-07-145341.650261MapAction-Logo-on-white.png" medium="image" />
-            <category term="Community Projects"/>
+            <category term="Glasgow Collaborative Community Projects"/>
+            <category term="Collaborative Community Projects"/>
+            <category term="Collaborative Academic Projects"/>
 
         <updated>2025-06-05T01:53:54+01:00</updated>
             <summary>
@@ -194,8 +196,7 @@
         <link href="https://pjgerrits.github.io/gdsg_publii/geoserver/"/>
         <id>https://pjgerrits.github.io/gdsg_publii/geoserver/</id>
         <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/36/GeoServer-370x206.png" medium="image" />
-            <category term="Community Projects"/>
-            <category term="Collaborative Academic Projects"/>
+            <category term="Collaborative Community Projects"/>
 
         <updated>2025-06-05T01:53:23+01:00</updated>
             <summary>
@@ -223,8 +224,7 @@
         <id>https://pjgerrits.github.io/gdsg_publii/ubdc/</id>
         <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/35/65830311be3dfffd373f53f0_9722_UBDC_logo-1.svg" medium="image" />
             <category term="Research Partners"/>
-            <category term="Community Projects"/>
-            <category term="Collaborative Academic Projects"/>
+            <category term="Collaborative Community Projects"/>
 
         <updated>2025-06-05T01:51:42+01:00</updated>
             <summary>
@@ -251,7 +251,7 @@
         <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/34/Roche_Logo_800px_Blue_RGB.webp" medium="image" />
             <category term="Research Partners"/>
             <category term="GDSG Team"/>
-            <category term="Collaborative Academic Projects"/>
+            <category term="Collaborative Community Projects"/>
 
         <updated>2025-06-05T01:50:47+01:00</updated>
             <summary>
@@ -278,7 +278,7 @@
         <link href="https://pjgerrits.github.io/gdsg_publii/urbanoccupationsoetr/"/>
         <id>https://pjgerrits.github.io/gdsg_publii/urbanoccupationsoetr/</id>
         <media:content url="https://pjgerrits.github.io/gdsg_publii/media/posts/33/KU_OETR_Logo_EN.png" medium="image" />
-            <category term="Collaborative Academic Projects"/>
+            <category term="Collaborative Community Projects"/>
 
         <updated>2025-06-05T01:48:44+01:00</updated>
             <summary>
